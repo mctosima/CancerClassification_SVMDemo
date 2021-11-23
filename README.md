@@ -1,7 +1,7 @@
 ### Original Project and Dataset credits to:
-Center for Machine Learning and Intelligent Systems
-Bren School of Information and Computer Science
-University of California, Irvine
+Center for Machine Learning and Intelligent Systems   
+Bren School of Information and Computer Science   
+University of California, Irvine   
 https://cml.ics.uci.edu/MLRepository.html
 
 ### About this code:
